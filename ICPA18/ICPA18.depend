@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603741784 source:c:\users\jtyna\documents\c\icpa18\main.c
+	<stdio.h>
+	<stdlib.h>
+
